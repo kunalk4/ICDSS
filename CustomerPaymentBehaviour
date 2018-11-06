@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+This is a file for the Customer Behaviour Prediction challenge.
 """
 
 import pandas as pd
